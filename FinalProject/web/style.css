@@ -1,0 +1,104 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : Nov 26, 2022, 1:48:42 PM
+    Author     : sebka
+*/
+select{
+    height: 30px;
+    width: 150px
+}
+#name{
+    width: 17%;
+    margin-bottom: -2.5%;
+}
+
+#hotels{
+    position: relative;
+    margin-left: 30%;
+    margin-right: 10%;
+    margin-bottom: -2.5%;
+    margin-top: -2%;
+}
+
+#roomType{
+    margin-right: 10%
+}
+
+#city{
+    margin-top: 3%;
+    margin-bottom: -2.5%;
+}
+
+#startDate{
+    position: relative;
+    margin-left: 30%;
+    margin-right: 10%;
+    margin-top: -2%;
+    width: 15%;
+}
+
+#endDate{
+    position: relative;
+    margin-left: 55%;
+    margin-right: 10%;
+    margin-top: -3.5%;
+    width: 15%;
+}
+
+#card{
+    width:15%;
+}
+
+#cardType{
+    width:15%;
+    margin-left: 15%;
+    margin-top: -5%;
+    margin-bottom: 3%;
+}
+
+#total{
+    width:15%;
+    margin-right: 18%;
+}
+
+#username{
+    position: relative;
+    margin-left: -132%;
+    margin-top: 15%;
+}
+
+#password{
+    position: relative;
+    margin-top: -12%;
+}
+
+#fname{
+    position: relative;
+    margin-left: 130%;
+    margin-top:-16%; 
+}
+
+#lname{
+    position: relative;
+    margin-top: 15%;
+    margin-left: -132%;
+}
+
+#email{
+    position: relative;
+    margin-top: -13%;
+}
+
+#phone{
+   position: relative;
+   margin-left:130%;
+   margin-top:-13%; 
+}
+
+#bsumit{
+    position: relative;
+    margin-top: 10%;
+}
